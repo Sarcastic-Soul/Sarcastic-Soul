@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Sarcastic-Soul
+- 👋 Hi, I’m Anish Kumar
+- 📖 Enrolled in B.Tech. at IIITNR
 - 👀 I’m interested in Web and Game Development
 - 🌱 I’m currently learning Javascript and Godot Engine
 - 📫 How to reach me anishisbusy@gmail.com
