@@ -3,10 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarcastic-soul&label=Profile%20views&color=0e75b6&style=flat" alt="sarcastic-soul" /> </p>
 
 - 🔭 I’m a aspiring MERN Stack Developer.
-
 - 🌱 I’m currently learning Javascript Backend Technologies
 
-- 💬 **I am a B.Tech 2nd year student from IIITNR, currently learning MERN Stack with the help of YouTube, other Google resources, and Documentation. I am passionate about learning Full Stack Web Development and creating a user-friendly and responsive website. So, I spend my precious time learning web frameworks like React, JS, Node.js, and MongoDB.**
+- 💬 I am a B.Tech 2nd year student from IIITNR, currently learning MERN Stack with the help of YouTube, other Google resources, and Documentation. I am passionate about learning Full Stack Web Development and creating a user-friendly and responsive website. So, I spend my precious time learning web frameworks like React, JS, Node.js, and MongoDB. <a href="https://sarcastic-soul.github.io/Portfolio/" target="_blank">Visit my Portfolio</a>
 
 - 📫 How to reach me:
   - Email: ansihisbusy@gmail.com
