@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarcastic-soul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://sarcastic-soul.github.io/Portfolio/" target="_blank">Visit my Portfolio</a>
 </p>
 
 <ul>
@@ -30,33 +31,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</p>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,monodb,bootstrap,appwrite,firebase,git,arduino,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mongodb,bootstrap,appwrite,firebase,git,arduino,figma" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://sarcastic-soul.github.io/Portfolio/" target="_blank">Visit my Portfolio</a>
-</p>
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sarcastic-soul&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarcastic-soul&" alt="GitHub Streak" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarcastic-Soul&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarcastic-Soul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarcastic-Soul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarcastic-soul&" alt="sarcastic-soul" />
+</div> 
