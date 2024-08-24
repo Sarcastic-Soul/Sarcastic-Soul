@@ -46,6 +46,12 @@
 </p>
 
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,monodb,bootstrap,appwrite,firebase,git,arduino,figma" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://sarcastic-soul.github.io/Portfolio/" target="_blank">Visit my Portfolio</a>
 </p>
 
