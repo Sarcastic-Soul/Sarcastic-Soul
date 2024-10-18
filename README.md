@@ -40,7 +40,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,tailwind,bootstrap,react,vite,nodejs,nextjs,mongodb,postgres,git,appwrite,arduino" />
+    <img src="https://skillicons.dev/icons?i=javascript,tailwind,bootstrap,react,vite,nodejs,expressjs,nextjs,mongodb,postgres,git,appwrite,arduino" />
   </a>
 </p>
 
