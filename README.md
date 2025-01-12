@@ -14,9 +14,9 @@
 </p>
 
 <ul>
-  <li>🔭 I’m an aspiring MERN Stack Developer.</li>
-  <li>🌱 Currently learning JavaScript Backend Technologies.</li>
-  <li>💬 I am a B.Tech 2nd year student from IIITNR, passionate about Full Stack Web Development with a focus on React, Node.js, and MongoDB.</li>
+  <li>🔭 I’m an aspiring Full Stack Developer.</li>
+  <li>🌱 Currently learning React Native and DevOps.</li>
+  <li>💬 I am a B.Tech 2nd year student from IIITNR, passionate about Full Stack Web & App Development </li>
 </ul>
 
 <h3 align="left">How to connect with me:</h3>
