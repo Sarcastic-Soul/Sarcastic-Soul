@@ -50,9 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarcastic-Soul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<hr>
-<br>
-
 <h3 align="left">Certificates & Badges:</h3>
 <a href="https://api.badgr.io/public/assertions/LHO5EhdSTIaKZLaIcLUU9Q?identity__email=anishisbusy%40gmail.com">
   <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/LHO5EhdSTIaKZLaIcLUU9Q/image">
