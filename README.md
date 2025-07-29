@@ -39,7 +39,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,tailwind,react,vite,nodejs,expressjs,nextjs,mongodb,postgres,supabase,appwrite,firebase,spring,docker,kubernetes,git,postman" />
+    <img src="https://skillicons.dev/icons?i=javascript,tailwind,react,vite,nodejs,expressjs,nextjs,mongodb,postgres,supabase,appwrite,firebase,spring,docker,kubernetes" />
   </a>
 </p>
 
