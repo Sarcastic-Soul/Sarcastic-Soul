@@ -37,7 +37,7 @@
 Here are some of the technologies I've been working with:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,vite,tailwind,nodejs,expressjs,spring,mongodb,postgres,supabase,appwrite,firebase,docker,kubernetes,git" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,react,nextjs,vite,tailwind,nodejs,expressjs,spring,mongodb,postgres,supabase,appwrite,firebase,docker,kubernetes,gcp,git,ubuntu&perline=10" />
 </p>
 
 ---
