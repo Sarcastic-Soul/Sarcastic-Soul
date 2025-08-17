@@ -17,15 +17,18 @@
   <a href="https://linkedin.com/in/anish-kumar-852397290" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/anishisbusy/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://codeforces.com/profile/anish_231010209" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-E80E15?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
   <a href="https://codepen.io/topxegne-the-flexboxer" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
   </a>
+  <a href="https://codeforces.com/profile/Samurott" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-E80E15?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.codechef.com/users/anish_cp" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+<a href="https://atcoder.jp/users/Anish_Kumar" target="_blank">
+  <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/>
+</a>
 </div>
 
 ---
