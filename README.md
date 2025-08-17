@@ -12,8 +12,7 @@
 - 🌱 I’m currently exploring the world of **DevOps**.
 - 🔭 My goal is to become a versatile **Full Stack Developer** who can bring ideas to life.
 
-  <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <a href="https://linkedin.com/in/anish-kumar-852397290" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -25,10 +24,10 @@
   </a>
   <a href="https://www.codechef.com/users/anish_cp" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
-<a href="https://atcoder.jp/users/Anish_Kumar" target="_blank">
-  <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/>
-</a>
+  </a>
+  <a href="https://atcoder.jp/users/Anish_Kumar" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/>
+  </a>
 </div>
 
 ---
