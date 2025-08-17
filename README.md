@@ -25,6 +25,9 @@
   <a href="https://www.codechef.com/users/anish_cp" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
+  <a href="https://leetcode.com/Anish_Kumar_/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-F0D616?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
   <a href="https://atcoder.jp/users/Anish_Kumar" target="_blank">
     <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/>
   </a>
