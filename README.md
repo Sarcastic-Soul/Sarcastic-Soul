@@ -37,8 +37,6 @@
 
 ### 🛠️ My Tech Stack
 
-Here are some of the technologies I've been working with:
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,java,react,nextjs,vite,tailwind,nodejs,expressjs,spring,mongodb,postgres,supabase,appwrite,firebase,docker,kubernetes,gcp,git,ubuntu&perline=10" />
 </p>
@@ -56,9 +54,7 @@ Here are some of the technologies I've been working with:
 
 ## 🏆 GitHub Trophies
 
-
 ![Trophy](https://github-profile-trophy.vercel.app/?username=sarcastic-soul&theme=darkhub&column=5)
-
 
 ---
 
