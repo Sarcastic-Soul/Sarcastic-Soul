@@ -54,7 +54,12 @@ Here are some of the technologies I've been working with:
 
 ---
 
-### 📜 Certifications
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=sarcastic-soul&theme=darkhub)
+
+---
+
+### 🏅 Badges
 
 <table>
   <tr>
@@ -72,3 +77,9 @@ Here are some of the technologies I've been working with:
     </td>
   </tr>
 </table>
+
+---
+
+### ✨ Hacktoberfest & Holopin
+
+[![Holopin Badges](https://holopin.me/sarcasticsoul)](https://holopin.io/@sarcasticsoul)
