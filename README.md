@@ -54,7 +54,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=sarcastic-soul&theme=darkhub&column=5)
+![Trophy](https://github-profile-trophy.vercel.app/?username=sarcastic-soul&theme=darkhub)
 
 ---
 
