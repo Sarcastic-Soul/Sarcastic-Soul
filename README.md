@@ -35,7 +35,7 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,java,react,nextjs,vite,tailwind,nodejs,expressjs,spring,mongodb,postgres,supabase,appwrite,firebase,docker,kubernetes,gcp,git,ubuntu&perline=10" />
@@ -43,18 +43,15 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sarcastic-Soul&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarcastic-Soul&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=sarcastic-soul&theme=darkhub)
+
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=sarcastic-soul&theme=darkhub)
 
 ---
 
