@@ -48,9 +48,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sarcastic-Soul&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarcastic-Soul&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-
+<br/><br/>
   ![Trophy](https://github-profile-trophy.vercel.app/?username=sarcastic-soul&theme=darkhub)
-
 </div>
 
 ---
