@@ -19,7 +19,7 @@
   <a href="https://codepen.io/topxegne-the-flexboxer" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
   </a>
-  <a href="https://codeforces.com/profile/Samurott" target="_blank">
+  <a href="https://codeforces.com/profile/Sarcastic-Soul" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-E80E15?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="https://www.codechef.com/users/anish_cp" target="_blank">
