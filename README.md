@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a third-year B.Tech student at the **International Institute of Information Technology, Naya Raipur (IIIT-NR)**.
+- 🎓 I'm a final year B.Tech student at the **International Institute of Information Technology, Naya Raipur (IIIT-NR)**.
 - 🚀 I'm passionate about building robust and scalable applications for both web and mobile.
 - 🌱 I’m currently exploring the world of **DevOps**.
 - 🔭 My goal is to become a versatile **Full Stack Developer** who can bring ideas to life.
@@ -38,7 +38,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,react,nextjs,vite,tailwind,nodejs,expressjs,spring,mongodb,postgres,supabase,appwrite,firebase,docker,kubernetes,gcp,git,ubuntu&perline=10" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,react,nextjs,vite,tailwind,nodejs,expressjs,spring,mongodb,postgres,supabase,firebase,docker,kubernetes,gcp,git,ubuntu&perline=10" />
 </p>
 
 ---
