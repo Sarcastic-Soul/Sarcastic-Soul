@@ -35,7 +35,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,react,nextjs,vite,tailwind,nodejs,expressjs,spring,mongodb,postgres,supabase,firebase,docker,kubernetes,gcp,git,ubuntu&perline=10" />
+ <img src="https://skillicons.dev/icons?i=javascript,typescript,java,react,nextjs,vite,tailwind,nodejs,expressjs,spring,vitest,maven,mongodb,postgres,redis,supabase,firebase,docker,kubernetes,nginx,aws,gcp,vercel,git,linux,ubuntu" />
 </p>
 
 ---
