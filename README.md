@@ -64,6 +64,9 @@
 
 ## 🌍 Open Source Contributions
 
+- 🔧 **[nossa-y/activity-frames](https://github.com/nossa-y/activity-frames)** — Python/MCP tool for episodic agent memory. 6 PRs merged (perf fixes incl. an O(n²) scan and a file-descriptor leak, a new pattern detector, docs), 9 more open.
+
+
 <p align="center">
   <a href="https://contributors.gitlab.com/users/anishisbusy">
     <img
