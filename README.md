@@ -64,8 +64,7 @@
 
 ## 🌍 Open Source Contributions
 
-- 🔧 [nossa-y/activity-frames](https://github.com/nossa-y/activity-frames) — Python/MCP tool for episodic agent memory.
-  ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Anossa-y%2Factivity-frames%2Bauthor%3ASarcastic-Soul%2Btype%3Apr%2Bis%3Amerged&query=%24.total_count&label=PRs%20merged&color=success)
+- 🔧 [nossa-y/activity-frames](https://github.com/nossa-y/activity-frames) — Python/MCP tool for episodic agent memory. <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Anossa-y%2Factivity-frames%2Bauthor%3ASarcastic-Soul%2Btype%3Apr%2Bis%3Amerged&query=%24.total_count&label=PRs%20merged&color=success" align="center" valign="middle" style="vertical-align:middle" />
 
 
 <p align="center">
