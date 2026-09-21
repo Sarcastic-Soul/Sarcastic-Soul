@@ -62,6 +62,22 @@
 
 ---
 
-## ✨ Hacktoberfest & Holopin
+## 🌍 Open Source Contributions
 
-[![Holopin Badges](https://holopin.me/sarcasticsoul)](https://holopin.io/@sarcasticsoul)
+<p align="center">
+  <a href="https://contributors.gitlab.com/users/anishisbusy">
+    <img
+      src="https://contributors.gitlab.com/users/anishisbusy/banner.svg"
+      alt="GitLab Contributor Stats"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@sarcasticsoul">
+    <img
+      src="https://holopin.me/sarcasticsoul"
+      alt="Holopin Badges"
+    />
+  </a>
+</p>
